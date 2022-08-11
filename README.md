@@ -67,8 +67,8 @@
     </a>
 </p>
 
-<p align="right"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=steevemx98&show_icons=true&locale=en&layout=compact" alt="steevemx98" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=steevemx98&show_icons=true&locale=en&layout=compact" alt="steevemx98" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=steevemx98&show_icons=true&locale=en" alt="steevemx98" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steevemx98&" alt="steevemx98" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=steevemx98&" alt="steevemx98" /></p>
